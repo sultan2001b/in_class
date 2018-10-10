@@ -1,0 +1,18 @@
+.container {
+    width: 800px;
+    height: 400px;
+    background-color: lightseagreen;
+    display: flex;
+    flex-direction: row;
+     justify-content: space-evenly; 
+    /*on x axis  */
+     align-items: center;
+     /*on y axis*/
+ }
+ 
+ .box {
+    height: 100px;
+    width: 100px;
+    background-color: cornflowerblue;
+    border: 2px solid sienna;
+ }

@@ -1,0 +1,24 @@
+div.block{
+    background: green;
+    /* background-color:  */
+    width: 50%;
+    display: block;
+}
+/* i can set widths and  */
+h1,p{
+    display: inline;
+}
+
+.half{
+height: 100px;
+width: 49%;
+background: yellowgreen;    
+display: inline-block;
+}
+
+.quarter{
+    display: inline-block;
+    width: 24.3%;
+    height: 50px;
+    background: blue;
+}

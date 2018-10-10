@@ -1,0 +1,93 @@
+body {
+    background-color: snow;
+  }
+  
+  .wrapper {
+    height: 408px;
+    width: 600px;
+    border:2px solid darkcyan;
+    margin: 50px;
+  }
+  
+  .box {
+    height: 100px;
+    width: 100px;
+    background-color: firebrick;
+    border: 1px dotted darkslateblue;
+  }
+  
+  #container1 {
+    background-color: mediumaquamarine;
+  }
+  
+  #container1 > .box {
+    /* position: relative; */
+    z-index: 20;
+  }
+  
+  #container1 > .box:nth-child(1) {
+    left: 200px;
+  }
+  
+  #container1 > .box:nth-child(2) {
+    top: 20px;
+  }
+  
+  #container1 > .box:nth-child(3) {
+    right: 100px;
+  }
+  
+  #container1 > .box:nth-child(4) {
+    bottom: -40px;
+  }
+  
+  #container2 > .box {
+    position: absolute;
+  }
+  
+  #container2 > .box:nth-child(1) {
+  }
+  
+  #container2 > .box:nth-child(2) {
+  }
+  
+  #container2 > .box:nth-child(3) {
+  }
+  
+  #container2 > .box:nth-child(4) {
+  }
+  
+  #container2 {
+    background-color: lightcyan;
+    position: relative;
+  }
+  
+  #container2 > .box {
+    position: absolute;
+  }
+  
+  #container2 > .box:nth-child(1) {
+    left: -20px;
+  }
+  
+  #container2 > .box:nth-child(2) {
+    right: 100px;
+  }
+  
+  #container2 > .box:nth-child(3) {
+    top: 180px;
+  }
+  
+  #container2 > .box:nth-child(4) {
+    bottom: 10px;
+    right: 35px;
+  }
+  
+  #container3 {
+    background-color: papayawhip;
+    position: fixed;
+    top: 0px;
+    height: 150px;
+    margin-top: 0px;
+    z-index: 30;
+  }

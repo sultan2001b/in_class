@@ -1,0 +1,102 @@
+body{
+    background: snow;
+}
+.wrapper
+{
+    height: 400px;
+    width: 600px;
+    border: 2px solid darkcyan;
+    margin:  50px;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background: firebrick;
+    border: 1px dotted darkslateblue;
+}
+#container1{
+    background: mediumaquamarine;
+}
+#container1>.box{
+    position: relative;
+    z-index: 20 ;
+
+}
+#container1>.box:nth-child(1)
+{
+    left: 200px;
+}
+#container1 > .box:nth-child(2)
+{
+    top: 20px;
+    /* background: red; */
+}
+#container1>.box:nth-child(3)
+{
+    right: 100px;
+}
+#container1>.box:nth-child(4)
+{
+    bottom: -40px;
+}
+
+#container2{
+    background: darkcyan;
+    position: relative;
+}
+#container2>.box{
+    position: absolute;
+}
+#container2>.box:nth-child(1)
+{
+    left: 200px;
+    background: darkgoldenrod;
+}
+#container2 > .box:nth-child(2)
+{
+    right: 100px;
+    /* background: red; */
+}
+#container2>.box:nth-child(3)
+{
+    /* right: 100px; */
+}
+#container2>.box:nth-child(4)
+{
+    bottom: 10px;
+    right: 35px;
+    position: relative;
+
+}
+
+#container3{
+    background: darkmagenta;
+    position: fixed;
+    top: 0px;
+    height: 150px;
+    margin-top: 0px;
+
+}
+#container3>.box{
+    
+}
+#container3>.box:nth-child(1)
+{
+    
+}
+#container3 > .box:nth-child(2)
+{
+   
+}
+#container3>.box:nth-child(3)
+{
+
+}
+#container3>.box:nth-child(4)
+{
+    
+}
+
+
+
