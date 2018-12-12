@@ -1,0 +1,18 @@
+Started GET "/" for 127.0.0.1 at 2018-11-05 11:04:38 +0300
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/sultanalsamaani/.rvm/gems/ruby-2.5.3/gems/activerecord-5.2.1/lib/active_record/log_subscriber.rb:98
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/sultanalsamaani/.rvm/gems/ruby-2.5.3/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/sultanalsamaani/.rvm/gems/ruby-2.5.3/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb (4.4ms)
+Completed 200 OK in 24ms (Views: 16.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/books" for 127.0.0.1 at 2018-11-05 11:04:42 +0300
+Processing by BooksController#index as HTML
+  Rendering books/index.html.erb within layouts/application
+  [1m[36mBook Load (1.3ms)[0m  [1m[34mSELECT "books".* FROM "books"[0m
+  ↳ app/views/books/index.html.erb:3
+  Rendered books/index.html.erb within layouts/application (19.1ms)
+Completed 200 OK in 766ms (Views: 734.4ms | ActiveRecord: 3.7ms)
+
+

@@ -1,0 +1,29 @@
+html{
+  font-size: 10px;
+}
+
+
+@media (min-width: 600px) and (max-width: 1100px) {
+  body {
+    background-color: whitesmoke;
+  }
+   img {
+    display: none;
+  }
+}
+@media (min-width: 1100px) {
+  body {
+    background: salmon;
+  }
+  img {
+    border: 20px black solid ;
+  }
+}
+@media (max-width: 600px) {
+  body {
+    background-color: gray;
+  }
+   img {
+    border: 20px blue solid ;
+  }
+}

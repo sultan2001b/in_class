@@ -18,3 +18,8 @@
     </tr>
   <% end %>
 </table>
+<% @cars = Car.all %>
+<%= form_for @cars do |f| %>
+  <%= f.collection_radio_buttons :id, Author.all, :id, :name_with_initial %>
+  <%= f.submit %>
+<% end %>

@@ -1,0 +1,28 @@
+<h2>
+<%= @author.name %>
+<%#= @author.to_json %>
+ </h2>
+ <p>
+ Date of birth: <%= @author.dob%>
+ </p>
+
+ <p>
+ location: <%= @author.location%>
+ </p>
+
+ <p>
+ description: <%= @author.description%>
+ </p>
+ <% console %>
+<ul>
+ <% @author.Books.each do |book|%>
+<li>
+<%= link_to book.title, book_path(book) %>
+</li>
+ <% end %>
+<ul>
+
+ <div class="controls">
+<%= link_to "edit Author", edit_author_path(@author) %>
+<%= link_to "Delete Author", author_path(@author), method: :delete %>
+ </div>

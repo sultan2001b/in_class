@@ -1,0 +1,18 @@
+<h2>
+  <%= @book.title %>
+</h2>
+
+<p>
+  <%= @book.blurb %>
+</p>
+
+<% @book.genres.each do |gen| %>
+<p>
+<%= link_to gen.name, genre_path(gen)%>
+</p>
+<% end %>
+<p>
+  Written by: 
+  <%= link_to @book.author.name, author_path(@book.author) %>
+</p>
+

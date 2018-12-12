@@ -1,0 +1,40 @@
+<h2>
+  <%= @author.name %>
+</h2>
+
+<p>
+  Date of birth: <%= @author.dob.strftime "%A, %B %e, %Y" %> <!--http://www.strfti.me/?f=%25A%2C+%25B+%25e%2C+%25Y -->
+</p>
+
+<p>
+  Location: <%= @author.location %>
+</p>
+
+<p>
+  Description: <%= @author.description %>
+</p>
+
+<div class="controls">
+  <%= link_to "Edit Author", edit_author_path(@author) %>
+  <%= link_to "Delete Author", author_path(@author), method: :delete %>
+</div>
+
+<h3>This author has written <%= pluralize @author.books.length, "book" %> :</h3>
+
+<ul>
+  <% @author.books.each do |book| %>
+    <li>
+      <%= link_to book.title, book_path(book) %>
+    </li>
+  <% end %>
+</ul>
+
+<h3>This author has genres:</h3>
+
+<ul>
+  <% @author.genres.uniq.each do |genre| %>
+    <li>
+      <%= link_to genre.name, genre_path(genre) %>
+    </li>
+  <% end %>
+</ul>

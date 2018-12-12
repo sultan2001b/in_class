@@ -1,0 +1,1501 @@
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:44:49 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 1975ms (Views: 1966.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:47:03 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 32ms (Views: 27.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:50:22 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 49ms (Views: 44.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:50:38 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 27ms (Views: 22.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:50:41 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 26ms (Views: 23.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:50:44 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 27ms (Views: 24.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:50:47 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 30ms (Views: 27.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:50:55 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 38ms (Views: 32.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:50:59 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 52ms (Views: 49.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:51:50 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 47ms (Views: 43.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:52:13 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 27ms (Views: 24.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:52:17 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 35ms (Views: 32.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:52:20 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 32ms (Views: 29.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:52:25 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 40ms (Views: 35.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:52:34 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 41ms (Views: 36.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:57:41 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 76ms (Views: 70.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:58:02 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 33ms (Views: 29.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:58:50 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 32ms (Views: 29.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:59:00 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 28ms (Views: 24.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:59:15 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 25ms (Views: 21.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 10:59:27 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 31ms (Views: 27.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:02:05 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 47ms (Views: 42.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:02:17 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 26ms (Views: 23.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:03:41 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 33ms (Views: 29.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:04:12 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 61ms (Views: 57.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:04:14 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 28ms (Views: 25.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:06:44 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 45ms (Views: 42.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:07:58 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 33ms (Views: 30.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:08:05 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 41ms (Views: 37.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:08:27 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 29ms (Views: 25.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:08:32 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 24ms (Views: 21.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:08:48 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 25ms (Views: 21.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:08:58 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 28ms (Views: 22.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:09:19 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 26ms (Views: 23.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:10:12 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 34ms (Views: 31.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:10:31 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 36ms (Views: 31.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:10:46 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 31ms (Views: 29.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:10:58 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 28ms (Views: 24.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:11:08 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 45ms (Views: 39.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:11:25 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 24ms (Views: 21.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:11:53 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 32ms (Views: 28.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:14:18 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 37ms (Views: 34.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:14:26 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 52ms (Views: 45.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:14:41 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 34ms (Views: 28.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:14:55 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 28ms (Views: 24.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:16:17 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 23ms (Views: 20.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:16:30 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 31ms (Views: 28.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:16:42 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 25ms (Views: 22.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:16:54 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 34ms (Views: 31.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:17:02 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 26ms (Views: 23.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:17:20 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 51ms (Views: 47.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:17:25 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 54ms (Views: 48.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:18:47 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 38ms (Views: 35.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:19:11 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 26ms (Views: 22.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:19:46 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 56ms (Views: 50.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:19:59 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 31ms (Views: 28.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:20:30 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 26ms (Views: 23.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:20:39 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 29ms (Views: 26.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:20:56 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 30ms (Views: 26.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:21:02 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 26ms (Views: 23.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:21:27 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 39ms (Views: 35.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:21:32 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 27ms (Views: 24.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:21:58 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 45ms (Views: 37.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:22:25 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 43ms (Views: 37.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:22:53 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 26ms (Views: 23.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:22:57 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 26ms (Views: 21.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:23:14 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 32ms (Views: 29.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:23:32 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 27ms (Views: 23.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:23:36 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 30ms (Views: 27.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:23:58 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 32ms (Views: 28.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:26:12 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 30ms (Views: 26.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:29:30 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 31ms (Views: 28.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:29:44 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 34ms (Views: 30.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:35:18 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 52ms (Views: 48.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:35:37 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 39ms (Views: 32.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:35:58 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 31ms (Views: 28.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:36:05 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 34ms (Views: 28.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:36:14 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 31ms (Views: 28.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:36:26 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 52ms (Views: 43.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 11:36:34 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 27ms (Views: 24.6ms | ActiveRecord: 0.0ms)
+
+
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ bin/rails:4
+  [1m[35m (2.4ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  ↳ bin/rails:4
+  [1m[35m (1.3ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ bin/rails:4
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+Migrating to CreatePosts (20181127083824)
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.5ms)[0m  [1m[35mCREATE TABLE "posts" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "content" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20181127083824_create_posts.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181127083824"]]
+  ↳ bin/rails:4
+  [1m[35m (1.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[36mActiveRecord::InternalMetadata Create (0.5ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2018-11-27 08:39:49.869647"], ["updated_at", "2018-11-27 08:39:49.869647"]]
+  ↳ bin/rails:4
+  [1m[35m (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ db/seeds.rb:1
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:2
+  [1m[36mPost Create (0.7ms)[0m  [1m[32mINSERT INTO "posts" ("title", "content", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Post #1"], ["content", "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti consequatur enim vero magni dolor fuga sed aliquid praesentium. Praesentium libero ipsa reiciendis error veritatis maiores quibusdam possimus debitis minus voluptatum.\nRepellendus, veniam tempore corrupti accusamus distinctio cupiditate quisquam debitis, qui quo temporibus aliquam impedit nihil. In quaerat, ab, animi, nam iure debitis nostrum sunt recusandae saepe dolorum eius accusamus molestiae!\nDeleniti reiciendis at ut eaque ea nostrum! Doloribus reprehenderit sed aut atque placeat deserunt adipisci, commodi minima temporibus accusantium possimus nulla unde incidunt quia praesentium vitae, nisi accusamus nam mollitia.\nNulla impedit repudiandae exercitationem deserunt laborum est facilis nostrum. Corporis voluptatibus cumque numquam dolore voluptate quaerat quo praesentium placeat maiores provident rem suscipit hic dicta aliquid eveniet eos, qui commodi.\nIn praesentium debitis pariatur aut, consectetur perferendis quia dolorem magnam culpa quos a eligendi numquam ipsa alias accusamus possimus qui vitae natus aliquam tenetur amet quo commodi. Saepe, placeat eum!"], ["created_at", "2018-11-27 08:45:20.098589"], ["updated_at", "2018-11-27 08:45:20.098589"]]
+  ↳ db/seeds.rb:2
+  [1m[35m (0.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:2
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:7
+  [1m[36mPost Create (0.3ms)[0m  [1m[32mINSERT INTO "posts" ("title", "content", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Post #2"], ["content", "Quasi molestiae maiores cupiditate maxime quod odio animi aperiam, repudiandae optio quia iste unde rem sint magni labore velit! Necessitatibus neque fugit fuga inventore non atque illo reprehenderit officiis aliquid!\nMinus similique perferendis rerum dolores nihil facere, sequi earum laudantium qui tenetur odio? Velit iure, repellat totam eius ex libero culpa exercitationem similique, necessitatibus fugit distinctio ea voluptatem placeat porro.\nIncidunt iusto dolore tenetur sit consequatur, corrupti excepturi dolores illo eius expedita sequi voluptas perferendis eaque! Corporis, eum! Consequatur iusto fugiat consequuntur quae non quaerat, aliquid delectus accusantium magnam numquam?\nQuam earum quos ducimus ab culpa animi rerum cupiditate libero. Possimus quisquam facilis ea numquam dignissimos error est fuga eveniet? Aut magni, hic rerum iste in esse amet cupiditate eligendi.\nHic aperiam fugiat incidunt, aspernatur, accusantium architecto illo reprehenderit nulla quis delectus numquam unde nam maiores nihil. Ex obcaecati ad omnis. Voluptatibus, debitis itaque. Quam iusto quasi mollitia placeat illo."], ["created_at", "2018-11-27 08:45:20.103139"], ["updated_at", "2018-11-27 08:45:20.103139"]]
+  ↳ db/seeds.rb:7
+  [1m[35m (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:7
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mPost Create (0.3ms)[0m  [1m[32mINSERT INTO "posts" ("title", "content", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Post #3"], ["content", "Officia suscipit veniam atque deserunt, quo iure? Laborum totam ut, quis sint quaerat nulla facere. Eaque laboriosam, illum id quia tenetur ipsam, voluptatibus temporibus veritatis asperiores alias ullam optio. A.\nUt sunt eius qui nam debitis reiciendis molestias exercitationem officia minus assumenda, consequatur harum vero voluptatibus fugiat accusantium nemo quidem mollitia sapiente dolores quia asperiores iure at voluptatum corporis. Iusto?\nUllam, voluptatem ab blanditiis est aspernatur ea cum laboriosam nisi sunt officiis voluptatibus, sapiente labore voluptate numquam ex minus, earum iusto accusantium assumenda voluptates sed nihil! Distinctio laborum corrupti vel!\nVitae dolorem magni ad voluptate delectus ex, laudantium eaque tempore velit blanditiis doloremque in tempora quos commodi, sunt minima consequuntur distinctio, est fuga. Laudantium voluptates aut a animi, blanditiis earum.\nVoluptates ratione aperiam nesciunt accusantium ea, suscipit atque minima illo aut quae saepe id aliquam? Ad delectus minima enim repellendus distinctio, deserunt, hic ipsa temporibus cupiditate magnam voluptatem dolorum sapiente?"], ["created_at", "2018-11-27 08:45:20.105737"], ["updated_at", "2018-11-27 08:45:20.105737"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:17
+  [1m[36mPost Create (0.4ms)[0m  [1m[32mINSERT INTO "posts" ("title", "content", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Post #4"], ["content", "Distinctio necessitatibus eligendi fugiat, id eius corporis eos voluptate quas facere ullam doloribus quidem reprehenderit voluptatem ipsum, unde accusamus temporibus quos voluptates cupiditate. Animi corporis veritatis consectetur error. Expedita, corporis.\nExercitationem, vel. Nam aliquid iure distinctio quod. Quam aliquid atque fugiat distinctio iure deserunt error amet, sed quod quasi tempore, iusto quis quas quidem adipisci repudiandae placeat temporibus ea. Harum!\nOfficia nihil deserunt consequatur voluptatem praesentium saepe distinctio? Dolorum accusantium aut, quos odit ab culpa dolor blanditiis nisi, aperiam repellendus sunt laborum, veritatis ratione illum quae exercitationem quaerat asperiores iusto!\nQuas eligendi asperiores, placeat omnis eius repudiandae deleniti illum architecto. Harum esse distinctio adipisci inventore tempora ut, incidunt necessitatibus, quidem, neque magni dolorem. Unde corrupti nostrum officia dolore inventore aliquam?\nBlanditiis alias animi rerum, adipisci voluptates nemo nihil delectus ipsa velit vel temporibus modi laudantium corporis enim dignissimos pariatur fugiat eveniet veniam voluptatem eaque accusantium. Perspiciatis mollitia necessitatibus dicta doloribus.\nQuidem esse atque ducimus saepe. Odio a necessitatibus repellendus pariatur perferendis reprehenderit mollitia fuga praesentium nisi accusantium nobis consequatur corporis asperiores sapiente cumque odit iste inventore, in est rerum. Incidunt?"], ["created_at", "2018-11-27 08:45:20.108062"], ["updated_at", "2018-11-27 08:45:20.108062"]]
+  ↳ db/seeds.rb:17
+  [1m[35m (0.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:17
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:23
+  [1m[36mPost Create (0.3ms)[0m  [1m[32mINSERT INTO "posts" ("title", "content", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Post #5"], ["content", "Quia rerum quae tempore nihil ut aut. Obcaecati laborum doloribus accusamus harum tempora praesentium soluta magni sunt sint libero explicabo tempore excepturi, ducimus ea vitae? Officiis accusantium veritatis voluptates ipsam?\nDignissimos, unde et sequi perspiciatis odit totam ab sunt nihil aspernatur reprehenderit facere quibusdam nulla, tempora tempore, deserunt expedita veritatis optio harum dolore eligendi eius delectus quaerat officia neque. Dicta!\nRepudiandae nihil doloribus quis fugiat maiores? Minus nam quos autem ipsam deleniti, accusantium maxime temporibus architecto animi id explicabo repellat qui dolorum, esse libero ipsa ipsum! Veniam hic illo corrupti!\nPraesentium ea veniam rem recusandae modi optio odio reiciendis earum dolor fugiat, ex atque eligendi at ad laudantium accusantium beatae vero similique itaque dicta sit qui libero, veritatis suscipit. Alias."], ["created_at", "2018-11-27 08:45:20.110440"], ["updated_at", "2018-11-27 08:45:20.110440"]]
+  ↳ db/seeds.rb:23
+  [1m[35m (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:23
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT  "posts".* FROM "posts" ORDER BY "posts"."id" ASC LIMIT ?[0m  [["LIMIT", 1]]
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:15:20 +0300
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/sultanalsamaani/.rvm/gems/ruby-2.5.3/gems/activerecord-5.2.1/lib/active_record/log_subscriber.rb:98
+  
+ActionController::RoutingError (uninitialized constant PostsController):
+  
+bootsnap (1.3.2) lib/bootsnap/load_path_cache/core_ext/active_support.rb:74:in `block in load_missing_constant'
+bootsnap (1.3.2) lib/bootsnap/load_path_cache/core_ext/active_support.rb:8:in `without_bootsnap_cache'
+bootsnap (1.3.2) lib/bootsnap/load_path_cache/core_ext/active_support.rb:74:in `rescue in load_missing_constant'
+bootsnap (1.3.2) lib/bootsnap/load_path_cache/core_ext/active_support.rb:56:in `load_missing_constant'
+activesupport (5.2.1) lib/active_support/inflector/methods.rb:283:in `const_get'
+activesupport (5.2.1) lib/active_support/inflector/methods.rb:283:in `block in constantize'
+activesupport (5.2.1) lib/active_support/inflector/methods.rb:281:in `each'
+activesupport (5.2.1) lib/active_support/inflector/methods.rb:281:in `inject'
+activesupport (5.2.1) lib/active_support/inflector/methods.rb:281:in `constantize'
+actionpack (5.2.1) lib/action_dispatch/http/request.rb:88:in `controller_class_for'
+actionpack (5.2.1) lib/action_dispatch/http/request.rb:81:in `controller_class'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:46:in `controller'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.6) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.6) lib/rack/etag.rb:25:in `call'
+rack (2.0.6) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.6) lib/rack/head.rb:12:in `call'
+actionpack (5.2.1) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.6) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.6) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.1) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.6) lib/rack/method_override.rb:22:in `call'
+rack (2.0.6) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.6) lib/rack/sendfile.rb:111:in `call'
+webpacker (3.5.5) lib/webpacker/dev_server_proxy.rb:22:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/post/" for 127.0.0.1 at 2018-11-27 13:16:30 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/post"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.6) lib/rack/method_override.rb:22:in `call'
+rack (2.0.6) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.6) lib/rack/sendfile.rb:111:in `call'
+webpacker (3.5.5) lib/webpacker/dev_server_proxy.rb:22:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:16:37 +0300
+  
+ActionController::RoutingError (uninitialized constant PostsController):
+  
+bootsnap (1.3.2) lib/bootsnap/load_path_cache/core_ext/active_support.rb:74:in `block in load_missing_constant'
+bootsnap (1.3.2) lib/bootsnap/load_path_cache/core_ext/active_support.rb:8:in `without_bootsnap_cache'
+bootsnap (1.3.2) lib/bootsnap/load_path_cache/core_ext/active_support.rb:74:in `rescue in load_missing_constant'
+bootsnap (1.3.2) lib/bootsnap/load_path_cache/core_ext/active_support.rb:56:in `load_missing_constant'
+activesupport (5.2.1) lib/active_support/inflector/methods.rb:283:in `const_get'
+activesupport (5.2.1) lib/active_support/inflector/methods.rb:283:in `block in constantize'
+activesupport (5.2.1) lib/active_support/inflector/methods.rb:281:in `each'
+activesupport (5.2.1) lib/active_support/inflector/methods.rb:281:in `inject'
+activesupport (5.2.1) lib/active_support/inflector/methods.rb:281:in `constantize'
+actionpack (5.2.1) lib/action_dispatch/http/request.rb:88:in `controller_class_for'
+actionpack (5.2.1) lib/action_dispatch/http/request.rb:81:in `controller_class'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:46:in `controller'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.6) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.6) lib/rack/etag.rb:25:in `call'
+rack (2.0.6) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.6) lib/rack/head.rb:12:in `call'
+actionpack (5.2.1) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.6) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.6) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.1) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.6) lib/rack/method_override.rb:22:in `call'
+rack (2.0.6) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.6) lib/rack/sendfile.rb:111:in `call'
+webpacker (3.5.5) lib/webpacker/dev_server_proxy.rb:22:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:20:47 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 96ms (Views: 92.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:21:35 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  Rendered posts/index.html.erb within layouts/application (5.6ms)
+Completed 500 Internal Server Error in 19ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    1: <h1>All Posts</h1>
+    2: 
+    3: <ul>
+    4: <% @Posts.each do |p|%>
+    5: <li><%= p.title %></li>
+    6: <% end%>
+    7: </ul>
+  
+app/views/posts/index.html.erb:4:in `_app_views_posts_index_html_erb___1245643388913053692_70225039312860'
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:22:25 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.8ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (21.4ms)
+Completed 200 OK in 65ms (Views: 59.6ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:30:54 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (1.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (8.7ms)
+Completed 200 OK in 46ms (Views: 36.3ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:31:13 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (7.2ms)
+Completed 200 OK in 49ms (Views: 43.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:31:16 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 38ms (Views: 33.8ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:31:21 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 46ms (Views: 39.5ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:31:26 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (6.2ms)
+Completed 200 OK in 36ms (Views: 31.1ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:31:36 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (8.7ms)
+Completed 200 OK in 43ms (Views: 35.8ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:31:42 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (9.4ms)
+Completed 200 OK in 43ms (Views: 36.7ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:31:46 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 38ms (Views: 33.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:31:50 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 39ms (Views: 33.4ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:31:54 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (7.2ms)
+Completed 200 OK in 36ms (Views: 31.8ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:31:58 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (7.9ms)
+Completed 200 OK in 37ms (Views: 31.6ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:32:02 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (7.8ms)
+Completed 200 OK in 39ms (Views: 32.9ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:33:21 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (7.8ms)
+Completed 200 OK in 42ms (Views: 36.8ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:33:29 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (10.9ms)
+Completed 200 OK in 64ms (Views: 58.3ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:33:32 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.5ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (7.2ms)
+Completed 200 OK in 36ms (Views: 31.1ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:33:36 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (13.8ms)
+Completed 200 OK in 64ms (Views: 54.0ms | ActiveRecord: 2.1ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:33:39 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (8.7ms)
+Completed 200 OK in 39ms (Views: 33.9ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:33:43 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (7.8ms)
+Completed 200 OK in 50ms (Views: 44.5ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:33:49 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (8.5ms)
+Completed 200 OK in 40ms (Views: 35.4ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:33:53 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (7.7ms)
+Completed 200 OK in 40ms (Views: 34.3ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:36:01 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (11.1ms)
+Completed 200 OK in 52ms (Views: 44.7ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:36:05 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (8.2ms)
+Completed 200 OK in 40ms (Views: 34.8ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:36:11 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 38ms (Views: 33.0ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:36:16 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (2.0ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (11.5ms)
+Completed 200 OK in 51ms (Views: 43.3ms | ActiveRecord: 3.1ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:36:21 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (7.9ms)
+Completed 200 OK in 35ms (Views: 30.0ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:36:31 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (8.3ms)
+Completed 200 OK in 48ms (Views: 42.9ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:36:42 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (6.8ms)
+Completed 200 OK in 38ms (Views: 31.4ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:37:02 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 36ms (Views: 30.2ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:37:11 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 44ms (Views: 38.6ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:37:24 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (12.4ms)
+Completed 200 OK in 60ms (Views: 51.2ms | ActiveRecord: 3.1ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:37:40 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (7.8ms)
+Completed 200 OK in 44ms (Views: 37.5ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:37:59 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (6.5ms)
+Completed 200 OK in 40ms (Views: 34.5ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:39:03 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 38ms (Views: 32.6ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/posts/" for 127.0.0.1 at 2018-11-27 13:39:12 +0300
+Processing by PostsController#index as HTML
+  Rendering posts/index.html.erb within layouts/application
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/views/posts/index.html.erb:4
+  Rendered posts/index.html.erb within layouts/application (8.4ms)
+Completed 200 OK in 54ms (Views: 48.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:40:20 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 39ms (Views: 35.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:40:22 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:42:18 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 37ms (Views: 33.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:43:04 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 46ms (Views: 42.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:43:05 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 42ms (Views: 37.3ms | ActiveRecord: 2.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:43:43 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 50ms (Views: 47.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:43:55 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 37ms (Views: 34.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:44:14 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 42ms (Views: 38.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:44:24 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 36ms (Views: 32.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:44:25 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 12ms (Views: 10.1ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:44:37 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 29ms (Views: 25.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:44:38 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 12ms (Views: 10.4ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:44:55 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 32ms (Views: 29.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:44:56 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.2ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 11ms (Views: 9.5ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:45:10 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 28ms (Views: 25.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:45:10 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 11ms (Views: 8.6ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:45:23 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 31ms (Views: 28.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:45:33 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 29ms (Views: 25.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:45:34 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 11ms (Views: 9.3ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:45:44 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 34ms (Views: 31.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:45:45 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 16ms (Views: 14.0ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:45:56 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 31ms (Views: 28.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:45:57 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 12ms (Views: 9.7ms | ActiveRecord: 3.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:46:27 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 28ms (Views: 25.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:46:47 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 39ms (Views: 36.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:47:01 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 35ms (Views: 31.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:47:02 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 27ms (Views: 24.2ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:47:23 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 88ms (Views: 83.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:47:24 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.9ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 18ms (Views: 15.6ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:47:33 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 113ms (Views: 100.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:47:34 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 12ms (Views: 9.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:47:49 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 30ms (Views: 26.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:47:50 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 10ms (Views: 8.3ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:48:01 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 30ms (Views: 27.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:48:25 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 31ms (Views: 27.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:48:26 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 13ms (Views: 10.9ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:48:29 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 37ms (Views: 33.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:48:30 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.5ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 27ms (Views: 24.8ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:48:34 +0300
+Processing by PagesController#app as HTML
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:48:34 +0300
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.9ms)
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 5ms (Views: 2.7ms | ActiveRecord: 0.4ms)
+
+
+Completed 200 OK in 69ms (Views: 61.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:48:35 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 3ms (Views: 1.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:49:59 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 31ms (Views: 27.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:50:00 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 9ms (Views: 7.5ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:50:18 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 29ms (Views: 26.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:50:19 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 11ms (Views: 8.9ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:50:32 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 33ms (Views: 30.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:50:33 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 11ms (Views: 9.1ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:50:48 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 34ms (Views: 31.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:50:53 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 37ms (Views: 34.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2018-11-27 13:50:54 +0300
+Processing by PostsController#index as JSON
+  Parameters: {"post"=>{}}
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
+  ↳ app/controllers/posts_controller.rb:6
+Completed 200 OK in 11ms (Views: 9.2ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-11-27 13:56:00 +0300
+Processing by PagesController#app as HTML
+  Rendering pages/app.html.erb within layouts/application
+  Rendered pages/app.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 38ms (Views: 36.0ms | ActiveRecord: 0.0ms)
+
+

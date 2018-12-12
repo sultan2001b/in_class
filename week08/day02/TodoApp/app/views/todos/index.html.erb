@@ -1,0 +1,5 @@
+<% @todos.each do |t| %>
+<p>
+<%= link_to t.content, todo_path(t) %>
+</p>
+<% end  %>
